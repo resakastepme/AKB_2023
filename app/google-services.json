@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1063825192695",
+    "firebase_url": "https://uas-akb-if4-10120132-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uas-akb-if4-10120132",
+    "storage_bucket": "uas-akb-if4-10120132.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063825192695:android:458b332a7226e73aac45f2",
+        "android_client_info": {
+          "package_name": "com.stepme.uas_akb_if4_10120132"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063825192695-tb4faavijddtkvbdp1cf70co1uqfvsjq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.stepme.uas_akb_if4_10120132",
+            "certificate_hash": "4997aab4c92484231bb9f0bee626aeddcf8a7876"
+          }
+        },
+        {
+          "client_id": "1063825192695-c6jck96kvjl9vd3e63f3s4opp23o0413.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIeJ5FgGiorolROVmVOyK_ugtpiNqZUvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063825192695-c6jck96kvjl9vd3e63f3s4opp23o0413.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
